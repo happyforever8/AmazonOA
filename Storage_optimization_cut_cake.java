@@ -1,12 +1,12 @@
-Amazon is experimenting with a flexible storage system for their warehouses. 
-The storage unit consists of a shelving system which is one meter deep with removable vertical 
-and horizontal separators. When all separators are installed, each storage space is one cubic meter (1' x 1' x 1'). 
-Determine the volume of the largest space when a series horizontal and vertical separators are removed.
+              Amazon is experimenting with a flexible storage system for their warehouses. 
+              The storage unit consists of a shelving system which is one meter deep with removable vertical 
+              and horizontal separators. When all separators are installed, each storage space is one cubic meter (1' x 1' x 1'). 
+              Determine the volume of the largest space when a series horizontal and vertical separators are removed.
 
-leetcode。1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts 
+              leetcode。1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts 
 
-Time complexity: O(N⋅log(N)+M⋅log(M))
-space is o(1)
+              Time complexity: O(N⋅log(N)+M⋅log(M))
+              space is o(1)
 
 
 
